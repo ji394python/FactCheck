@@ -1,8 +1,3 @@
-# FactCheck
-#crawler #python #factcheck #事實查核機構
-<hr>
-<br>
-
 ## 一、運作說明：
 <hr>
 
